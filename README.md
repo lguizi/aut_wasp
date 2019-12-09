@@ -1,5 +1,9 @@
-# aut_wasp
+# aut_wasp _(pt-BR)_
 
-Descrição
 
-  Script em Python para automatização de metodologia OWASP.
+  Script em Python para automatização de metodologia **OWASP**.
+
+
+## aut_wasp _(en-US)_
+
+  Python Script for **OWASP** methodology automization.
